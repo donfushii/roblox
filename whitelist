@@ -1,0 +1,5 @@
+local whitelisted = {
+    [1205093173] = "admin"
+}
+
+return whitelisted
